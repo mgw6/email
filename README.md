@@ -2,8 +2,8 @@
 
 This program was as homework assignment for Data Structures an Algorithms (CSE 214) at Stony Brook University. Written in July 2020.
 
-The Mailbox file contains a main method that allows the user to interact
-with the Mailbox, Folder and Email objects
+To use this program, compile and run the Mailbox.java file
+The Mailbox file contains a main method that allows the user to interact with the Mailbox, Folder and Email objects
 
 While running the file, the user can:
 - Add a subfolder
